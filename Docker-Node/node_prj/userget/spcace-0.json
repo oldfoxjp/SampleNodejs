@@ -1,0 +1,1051 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('space-0%40groxi.jp')/events",
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/users/space-0@groxi.jp/events?$skip=10",
+    "value": [
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACT5+59Q==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJP4-5oAAA=",
+            "createdDateTime": "2022-11-14T08:45:33.3299521Z",
+            "lastModifiedDateTime": "2022-11-14T08:45:38.970179Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACT5+59Q==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E00800000000B165537405F8D80100000000000000001000000097F0CB82BE7BA147B1C4082E269518F5",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "崔 允赫 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJP4%2F5oAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-14T08:45:36.0328837Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-14T09:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-14T10:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "崔 允赫",
+                        "address": "choi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "optional",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "崔 允赫",
+                    "address": "choi@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACT5+5dg==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJP4-5jAAA=",
+            "createdDateTime": "2022-11-14T07:02:46.4484387Z",
+            "lastModifiedDateTime": "2022-11-14T07:55:44.7891441Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACT5+5dg==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Asia/Tokyo",
+            "originalEndTimeZone": "Asia/Tokyo",
+            "iCalUId": "040000008200E00074C5B7101A82E008000000000FDC8319F7F7D80100000000000000001000000088965AEBF4465340A92AD867A90E3850",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": true,
+            "hasAttachments": false,
+            "subject": "打合せ＜会議＞",
+            "bodyPreview": "________________________________________________________________________________Microsoft Teams meetingJoin on your computer, mobile app or room deviceClick here to join the meetingMeeting ID: 412 596 624 958Passcode: pvt3dmDownload Teams | ",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": true,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJP4%2F5jAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": true,
+            "onlineMeetingProvider": "teamsForBusiness",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "responseStatus": {
+                "response": "organizer",
+                "time": "0001-01-01T00:00:00Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><br><div style=\"width:100%; height:20px\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span></div><div class=\"me-email-text\" lang=\"en-US\" style=\"color:#252424; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\"><div style=\"margin-top:24px; margin-bottom:20px\"><span style=\"font-size:24px; color:#252424\">Microsoft Teams meeting</span></div><div style=\"margin-bottom:20px\"><div style=\"margin-top:0px; margin-bottom:0px; font-weight:bold\"><span style=\"font-size:14px; color:#252424\">Join on your computer, mobile app or room device</span></div><a href=\"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI3ZWE3NGMtZjYwNC00Mzg0LThjNDctZmUxYzdiMTUwMjc0%40thread.v2/0?context=%7b%22Tid%22%3a%2230944257-df71-405d-87e3-39f988e5148e%22%2c%22Oid%22%3a%22aebd862d-820f-47a4-8789-56254c144e5a%22%7d\" class=\"me-email-headline\" style=\"font-size:14px; font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; text-decoration:underline; color:#6264a7\">Click here to join the meeting</a> </div><div style=\"margin-bottom:20px; margin-top:20px\"><div style=\"margin-bottom:4px\"><span style=\"font-size:14px; color:#252424\">Meeting ID:<span style=\"font-size:16px; color:#252424\">412 596 624 958</span> </span><br><span style=\"font-size:14px; color:#252424\">Passcode: </span><span style=\"font-size:16px; color:#252424\">pvt3dm</span><div style=\"font-size:14px\"><a href=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Download Teams</a> | <a href=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Join on the web</a></div></div></div><div style=\"margin-bottom:24px; margin-top:20px\"><a href=\"https://aka.ms/JoinTeamsMeeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Learn More</a> | <a href=\"https://teams.microsoft.com/meetingOptions/?organizerId=aebd862d-820f-47a4-8789-56254c144e5a&amp;tenantId=30944257-df71-405d-87e3-39f988e5148e&amp;threadId=19_meeting_MjI3ZWE3NGMtZjYwNC00Mzg0LThjNDctZmUxYzdiMTUwMjc0@thread.v2&amp;messageId=0&amp;language=en-US\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Meeting options</a> </div></div><div style=\"font-size:14px; margin-bottom:4px; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\"></div><div style=\"font-size:12px\"></div><div></div><div style=\"width:100%; height:20px\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span></div></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-14T07:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-14T08:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-14T07:55:38.3150377Z"
+                    },
+                    "emailAddress": {
+                        "name": "崔 允赫",
+                        "address": "choi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-14T07:55:37.3897817Z"
+                    },
+                    "emailAddress": {
+                        "name": "上村 信利",
+                        "address": "uemura@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "会議室 Room 0",
+                    "address": "space-0@groxi.jp"
+                }
+            },
+            "onlineMeeting": {
+                "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjI3ZWE3NGMtZjYwNC00Mzg0LThjNDctZmUxYzdiMTUwMjc0%40thread.v2/0?context=%7b%22Tid%22%3a%2230944257-df71-405d-87e3-39f988e5148e%22%2c%22Oid%22%3a%22aebd862d-820f-47a4-8789-56254c144e5a%22%7d"
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACT5+4WQ==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJP4-5iAAA=",
+            "createdDateTime": "2022-11-14T06:03:08.8560219Z",
+            "lastModifiedDateTime": "2022-11-14T06:03:17.0429579Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACT5+4WQ==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E0080000000016BE69A8EEF7D801000000000000000010000000227C95B57FEDF2468C7CEC41FDE26617",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "海野 江里子 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJP4%2F5iAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": "",
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-14T06:03:12.840119Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-12-07T01:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-12-07T02:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationUri": "space-0@groxi.jp",
+                "locationType": "conferenceRoom",
+                "uniqueId": "space-0@groxi.jp",
+                "uniqueIdType": "directory",
+                "address": {
+                    "street": "",
+                    "city": "",
+                    "state": "",
+                    "countryOrRegion": "",
+                    "postalCode": ""
+                },
+                "coordinates": {}
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationUri": "space-0@groxi.jp",
+                    "locationType": "conferenceRoom",
+                    "uniqueId": "space-0@groxi.jp",
+                    "uniqueIdType": "directory",
+                    "address": {
+                        "street": "",
+                        "city": "",
+                        "state": "",
+                        "countryOrRegion": "",
+                        "postalCode": ""
+                    },
+                    "coordinates": {}
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "海野 江里子",
+                        "address": "umino@groxi.jp"
+                    }
+                },
+                {
+                    "type": "optional",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "海野 江里子",
+                    "address": "umino@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACT5+3dw==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJP4-5fAAA=",
+            "createdDateTime": "2022-11-14T03:00:52.748093Z",
+            "lastModifiedDateTime": "2022-11-14T03:01:25.4489249Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACT5+3dw==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Asia/Tokyo",
+            "originalEndTimeZone": "Asia/Tokyo",
+            "iCalUId": "040000008200E00074C5B7101A82E008000000004EF0AC4ED5F7D801000000000000000010000000B1EC582F76EB3947A78A5B9EA2BFF372",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": true,
+            "hasAttachments": false,
+            "subject": "棚卸打合せ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": true,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJP4%2F5fAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "organizer",
+                "time": "0001-01-01T00:00:00Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": ""
+            },
+            "start": {
+                "dateTime": "2022-11-14T06:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-14T06:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-14T03:01:22.1420782Z"
+                    },
+                    "emailAddress": {
+                        "name": "越山 未春",
+                        "address": "koshiyama@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-14T03:01:20.3910516Z"
+                    },
+                    "emailAddress": {
+                        "name": "桑原 一葉",
+                        "address": "kuwabara_k@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-14T03:01:20.4198574Z"
+                    },
+                    "emailAddress": {
+                        "name": "三好 陸",
+                        "address": "miyoshi@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "会議室 Room 0",
+                    "address": "space-0@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACT5+2yw==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJP4-5eAAA=",
+            "createdDateTime": "2022-11-14T00:42:01.0965011Z",
+            "lastModifiedDateTime": "2022-11-14T01:44:27.3489487Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACT5+2yw==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E008000000008FB2F3E4C1F7D80100000000000000001000000035E476F2C148104BA7719711D6024266",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "菊池 優衣 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJP4%2F5eAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-14T00:42:03.7838114Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-16T01:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-16T02:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "菊池 優衣",
+                        "address": "kikuchi_y@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "神野 力",
+                        "address": "jinno@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "東 瞬",
+                        "address": "azuma@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "出口 愛",
+                        "address": "deguchi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "resource",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "菊池 優衣",
+                    "address": "kikuchi_y@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACThHF4g==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJOVcXWAAA=",
+            "createdDateTime": "2022-11-11T09:19:36.8151807Z",
+            "lastModifiedDateTime": "2022-11-11T10:26:51.2162941Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACThHF4g==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E00800000000603A88F4F9F5D801000000000000000010000000D73128715D97C543BCE154AB253ED6A9",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "関谷 恭平 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJOVcXWAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-11T09:19:39.0181441Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-25T04:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-25T05:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationUri": "space-0@groxi.jp",
+                    "locationType": "conferenceRoom",
+                    "uniqueId": "space-0@groxi.jp",
+                    "uniqueIdType": "directory",
+                    "address": {
+                        "street": "",
+                        "city": "",
+                        "state": "",
+                        "countryOrRegion": "",
+                        "postalCode": ""
+                    },
+                    "coordinates": {}
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "関谷 恭平",
+                        "address": "sekiya@groxi.jp"
+                    }
+                },
+                {
+                    "type": "resource",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "今井 裕之",
+                        "address": "imai@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "関谷 恭平",
+                    "address": "sekiya@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACThHFzw==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJOVcXVAAA=",
+            "createdDateTime": "2022-11-11T09:00:44.8483052Z",
+            "lastModifiedDateTime": "2022-11-11T09:31:32.2175258Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACThHFzw==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E008000000000AEA703898F5D801000000000000000010000000C8894D4DCC31E442BEAC4C4DF6306812",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "崔 允赫 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJOVcXVAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-11T09:00:48.1449403Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-11T09:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-11T10:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "崔 允赫",
+                        "address": "choi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "resource",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "崔 允赫",
+                    "address": "choi@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACThHEdw==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJOVcXUAAA=",
+            "createdDateTime": "2022-11-11T06:45:04.139834Z",
+            "lastModifiedDateTime": "2022-11-11T07:07:55.2465453Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACThHEdw==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E00800000000F020CA1E99F5D80100000000000000001000000043F40ADFC47A204D97549B3608C97EAB",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "崔 允赫 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJOVcXUAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-11T06:45:06.4209231Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-11T07:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-11T08:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "崔 允赫",
+                        "address": "choi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "resource",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "崔 允赫",
+                    "address": "choi@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACThHCug==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJOVcXRAAA=",
+            "createdDateTime": "2022-11-11T03:20:41.4744679Z",
+            "lastModifiedDateTime": "2022-11-11T03:20:46.1616372Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACThHCug==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Asia/Tokyo",
+            "originalEndTimeZone": "Asia/Tokyo",
+            "iCalUId": "040000008200E00074C5B7101A82E008000000005BF0F8937CF5D801000000000000000010000000DFFD90BB4B066949A90E00EA3D88810A",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": true,
+            "hasAttachments": false,
+            "subject": "【中途採用】オファー面談_松浪愛様＜会議＞",
+            "bodyPreview": "​中途採用さんがあなたを予約されたZoomミーティングに招待しています。トピック: 【groxi】オファー面談_松浪 愛様時間: 2022年11月14日 01:00 PM 大阪、札幌、東京Zoomミーティングに参加するhttps://us02web.zoom.us/j/88579719376?pwd=c1IvT29BQlF5N0dzVnVEL0hjL3RnUT09ミーティングID: 885 7971 9376パスコード: 887182ワンタップモバイル機器+17",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": true,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJOVcXRAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "organizer",
+                "time": "0001-01-01T00:00:00Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><span style=\"color:rgb(0,0,0); font-family:Arial; font-size:12px\">​</span><font face=\"Arial\">中途採用さんがあなたを予約されたZoomミーティングに招待しています。</font><div style=\"\"><font face=\"Arial\"><br></font></div><div style=\"\"><font face=\"Arial\">トピック: 【groxi】オファー面談_松浪 愛様</font></div><div style=\"\"><font face=\"Arial\">時間: 2022年11月14日 01:00 PM 大阪、札幌、東京</font></div><div style=\"\"><font face=\"Arial\"><br></font></div><div style=\"\"><font face=\"Arial\">Zoomミーティングに参加する</font></div><div style=\"\"><font face=\"Arial\">https://us02web.zoom.us/j/88579719376?pwd=c1IvT29BQlF5N0dzVnVEL0hjL3RnUT09</font></div><div style=\"\"><font face=\"Arial\"><br></font></div><div style=\"\"><font face=\"Arial\">ミーティングID: 885 7971 9376</font></div><div style=\"\"><font face=\"Arial\">パスコード: 887182</font></div><div style=\"\"><font face=\"Arial\">ワンタップモバイル機器</font></div><div style=\"\"><font face=\"Arial\">+17193594580,,88579719376#,,,,*887182# 米国</font></div><div style=\"\"><font face=\"Arial\">+12532158782,,88579719376#,,,,*887182# 米国 (Tacoma)</font></div><div style=\"\"><font face=\"Arial\"><br></font></div><div style=\"\"><font face=\"Arial\">所在地でダイアル</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 719 359 4580 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 253 215 8782 米国 (Tacoma)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 301 715 8592 米国 (Washington DC)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 309 205 3325 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 312 626 6799 米国 (Chicago)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 346 248 7799 米国 (Houston)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 360 209 5623 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 386 347 5053 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 507 473 4847 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 564 217 2000 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 646 558 8656 米国 (New York)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 646 931 3860 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 669 444 9171 米国</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 669 900 9128 米国 (San Jose)</font></div><div style=\"\"><font face=\"Arial\">&nbsp; &nbsp; &nbsp; &nbsp; +1 689 278 1000 米国</font></div><div style=\"\"><font face=\"Arial\">ミーティングID: 885 7971 9376</font></div><div style=\"\"><font face=\"Arial\">パスコード: 887182</font></div><div style=\"\"><font face=\"Arial\">市内番号を検索: https://us02web.zoom.us/u/kdM3WpYrlY</font></div><div style=\"color:rgb(0,0,0); font-family:Arial; font-size:12px\"><br></div></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-14T04:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-14T05:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-11T03:20:44.0991727Z"
+                    },
+                    "emailAddress": {
+                        "name": "久保田 美音",
+                        "address": "kubota@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-11T03:20:43.643512Z"
+                    },
+                    "emailAddress": {
+                        "name": "掛札 美和",
+                        "address": "kakefuda@groxi.jp"
+                    }
+                },
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "accepted",
+                        "time": "2022-11-11T03:20:43.196059Z"
+                    },
+                    "emailAddress": {
+                        "name": "海野 江里子",
+                        "address": "umino@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "会議室 Room 0",
+                    "address": "space-0@groxi.jp"
+                }
+            }
+        },
+        {
+            "@odata.etag": "W/\"aY8k/DDPKUC5cbPrbNUSawACThHD3Q==\"",
+            "id": "AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp_HjuTQ-QpemYTz5pkUlBwBpjyT8MM8pQLlxs_ts1RJrAAAAAAENAABpjyT8MM8pQLlxs_ts1RJrAAJOVcXQAAA=",
+            "createdDateTime": "2022-11-11T03:14:57.4050178Z",
+            "lastModifiedDateTime": "2022-11-11T04:29:46.3521243Z",
+            "changeKey": "aY8k/DDPKUC5cbPrbNUSawACThHD3Q==",
+            "categories": [],
+            "transactionId": null,
+            "originalStartTimeZone": "Tokyo Standard Time",
+            "originalEndTimeZone": "Tokyo Standard Time",
+            "iCalUId": "040000008200E00074C5B7101A82E00800000000EE56BEC57BF5D8010000000000000000100000001FD007EFC0851C42ACBD2BFE1EEDBE6A",
+            "reminderMinutesBeforeStart": 15,
+            "isReminderOn": false,
+            "hasAttachments": false,
+            "subject": "崔 允赫 ",
+            "bodyPreview": "",
+            "importance": "normal",
+            "sensitivity": "normal",
+            "isAllDay": false,
+            "isCancelled": false,
+            "isOrganizer": false,
+            "responseRequested": true,
+            "seriesMasterId": null,
+            "showAs": "busy",
+            "type": "singleInstance",
+            "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGFmMmYxMjViLTcyOTMtNDk2NS04OGNjLWE4YWRmNjMyYTc1NABGAAAAAADxp%2BHjuTQ%2FQpemYTz5pkUlBwBpjyT8MM8pQLlxs%2Bts1RJrAAAAAAENAABpjyT8MM8pQLlxs%2Bts1RJrAAJOVcXQAAA%3D&exvsurl=1&path=/calendar/item",
+            "onlineMeetingUrl": null,
+            "isOnlineMeeting": false,
+            "onlineMeetingProvider": "unknown",
+            "allowNewTimeProposals": true,
+            "isDraft": false,
+            "hideAttendees": false,
+            "recurrence": null,
+            "onlineMeeting": null,
+            "responseStatus": {
+                "response": "accepted",
+                "time": "2022-11-11T04:00:05.6181669Z"
+            },
+            "body": {
+                "contentType": "html",
+                "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta name=\"Generator\" content=\"Microsoft Exchange Server\"><!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head><body><font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font></body></html>"
+            },
+            "start": {
+                "dateTime": "2022-11-11T03:00:00.0000000",
+                "timeZone": "UTC"
+            },
+            "end": {
+                "dateTime": "2022-11-11T04:30:00.0000000",
+                "timeZone": "UTC"
+            },
+            "location": {
+                "displayName": "会議室 Room 0",
+                "locationType": "default",
+                "uniqueId": "会議室 Room 0",
+                "uniqueIdType": "private"
+            },
+            "locations": [
+                {
+                    "displayName": "会議室 Room 0",
+                    "locationType": "default",
+                    "uniqueId": "会議室 Room 0",
+                    "uniqueIdType": "private"
+                }
+            ],
+            "attendees": [
+                {
+                    "type": "required",
+                    "status": {
+                        "response": "none",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "崔 允赫",
+                        "address": "choi@groxi.jp"
+                    }
+                },
+                {
+                    "type": "resource",
+                    "status": {
+                        "response": "accepted",
+                        "time": "0001-01-01T00:00:00Z"
+                    },
+                    "emailAddress": {
+                        "name": "会議室 Room 0",
+                        "address": "space-0@groxi.jp"
+                    }
+                }
+            ],
+            "organizer": {
+                "emailAddress": {
+                    "name": "崔 允赫",
+                    "address": "choi@groxi.jp"
+                }
+            }
+        }
+    ]
+}
