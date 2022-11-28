@@ -1,0 +1,72 @@
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        table th,
+        table td {
+            border: solid 1px black;
+            /*実線 1px 黒*/
+        }
+    </style>
+    <!--
+        start = hh:mm
+        end = hh:mm
+        この二つのパラメータをつかって、塗りつぶすDOMオブジェクトを算出する
+        00:00 - 00:59 -> id=>hour_0, id=min_0 - min_3
+
+    -->
+</head>
+
+<body>
+    <table id="timeschedule_view">
+        <tr>
+            <td>
+                <table class='houry' id="hour_0" height="100px" border="2" style="border-color: red">
+                    <tr>
+                        <td id="min_0">　</td>
+                        <td id="min_1' bgcolor=" blue">　</td> <!-- 15−29　-->
+                        <td id="min_2">　</td>
+                        <td id="min_3">　</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table id="1" height="100px" border="2" style="border-color: red">
+                    <tr>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table height="100px" border="2" style="border-color: red">
+                    <tr>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table height="100px" border="2" style="border-color: red">
+                    <tr>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                        <td>　</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
