@@ -1,0 +1,32 @@
+version : "3"
+services:
+  db:
+    image: mariadb
+    restart: always
+    ports:
+      - 3307:3306
+    volumes:
+      # - "./mysql:/var/lib/mysql"
+      # - "./initdb.d:/docker-entrypoint-initdb.d"
+      - ./data:/var/lib/mysql:cached
+      - ./my.cnf:/etc/mysql/conf.d/my.cnf
+    environment:
+      - MYSQL_ROOT_PASSWORD=leelee1!
+      - MYSQL_DATABASE=leeuser
+      - MYSQL_USER=leeuser
+      - MYSQL_PASSWORD=leelee1!
+      - MYSQL_ROOT_HOST=%
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    depends_on:
+      - db
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOSTS=db
+      - PMA_USER=root
+      - PMA_PASSWORD=leelee1!
+    ports:
+      - "3000:80"
+    volumes:
+      - ./docker/phpmyadmin/sessions:/sessions

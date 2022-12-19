@@ -1,10 +1,11 @@
 const mysql = require('mysql');
 
 const connection = mysql.createConnection({
-  host: '192.168.100.241',
-  user: 'miura_m',
+  host: '10.150.200.51',
+  port: '3307',
+  user: 'mikami',
   password: 'leelee1!',
-  database: 'miura_m'
+  database: 'mikami'
 });
 
 connection.connect((err) => {
@@ -13,7 +14,7 @@ connection.connect((err) => {
       return;
     }
     console.log('success');
-    const sql = 'select * from jobs';
+    const sql = 'select * from TBL_TEST';
     connection.query(sql, function (err,result,fields) {
         if (err) throw err;
         console.log(result);
