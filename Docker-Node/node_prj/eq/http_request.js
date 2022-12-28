@@ -1,6 +1,6 @@
 // ごく軽微な地震や震源を特定出来ない情報の取り扱い。マグニチュードが負数となる
 
-const getUser = async (userId) => {
+const getUser = async () => {
     const url = `https://api.p2pquake.net/v2/jma/quake?limit=100`;
     const response = await fetch(url, { method: "get"})
     const json = response.json();
@@ -11,12 +11,15 @@ const getUser = async (userId) => {
     }
   };
 
-getUser(10)
+getUser()
 .then((data) => {
     console.log(data);
     const getEQlist = data.map(function( value, index, array ) {
       //if (value['earthquake']['hypocenter']['magnitude'] > 0) {
-        return { 'cr':value['created_at'], 'magnitude':value['earthquake']['hypocenter']['magnitude'], 'hypocenter':value['earthquake']['hypocenter']['name'] };
+        return { 'cr':value['created_at'], 
+          'magnitude':value['earthquake']['hypocenter']['magnitude'], 
+          'hypocenter':value['earthquake']['hypocenter']['name']
+        };
       //}
     });
 
